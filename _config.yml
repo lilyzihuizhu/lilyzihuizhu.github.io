@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=aSTP9mEAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0225-1228"
+  orcid            : # "https://orcid.org/0000-0003-0225-1228"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "lily-zihui-zhu"
+  linkedin         : # "lily-zihui-zhu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
