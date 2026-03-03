@@ -17,6 +17,8 @@ author_profile: true
 
 **Zhu, L. Z.** & Yuan, L., (submitted). From Components to Compositionality: A Case Study of Cross-Linguistic Differences in Number Learning Without Cross-Cultural Confounds.
 
+Hochmann, J.-R., **Zhu, L. Z.**, Kroupin, I., & Carey, S. (submitted). Hard Words Despite Early Concepts: The Acquisition of "Same" and "Different". \[[preprint](https://doi.org/10.31234/osf.io/m4z3x_v1)\]
+
 **Zhu, L. Z.**, Amatuni, A., Egan-Dailey, S., Garrison, H., Kalenkovich, E., Koorathota, S., Righter, L., Tor, S., & Bergelson, E. (under review). Experience Shapes Early Noun Comprehension from 8-18 Months: The Roles of Word Frequency and Referent Familiarity. \[[preprint](https://doi.org/10.31234/osf.io/zchbj_v1)\]
 
 Zhu, R., Kilonzo, T. N., **Zhu, L. Z.**, Fan, J., & Frank, M. C. (2025). Cross-contextual variability in children's early understanding of visual media. *Topics in Cognitive Science*, 00, 1-27. \[[preprint](https://osf.io/preprints/psyarxiv/79xh5_v1)\] \[[publisher](https://doi.org/10.1111/tops.70034)\]
