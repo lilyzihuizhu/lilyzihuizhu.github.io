@@ -17,11 +17,11 @@ author_profile: true
 
 Yuan, L., Singell, E., **Zhu, L. Z.**, Mix, K. S., & Smith, L. B. (under review). How are compositional systems learned? Four Hypotheses and Insights from Symbolic Numbers.
 
-Hochmann, J.-R., **Zhu, L. Z.**, Kroupin, I., & Carey, S. (under review). Hard Words Despite Early Concepts: The Acquisition of "Same" and "Different". \[[preprint](https://doi.org/10.31234/osf.io/m4z3x_v1)\]
+Hochmann, J.-R., **Zhu, L. Z.**, Kroupin, I., & Carey, S. (revise & resubmit). Hard Words Despite Early Concepts: The Acquisition of "Same" and "Different". \[[preprint](https://doi.org/10.31234/osf.io/m4z3x_v1)\]
 
-**Zhu, L. Z.** & Yuan, L., (under review). From Components to Compositionality: A Case Study of Cross-Linguistic Differences in Number Learning Without Cross-Cultural Confounds.
+**Zhu, L. Z.** & Yuan, L., (revise & resubmit). From Components to Compositionality: A Case Study of Cross-Linguistic Differences in Number Learning Without Cross-Cultural Confounds.
 
-**Zhu, L. Z.**, Amatuni, A., Egan-Dailey, S., Garrison, H., Kalenkovich, E., Koorathota, S., Righter, L., Tor, S., & Bergelson, E. (revise & resubmit). Experience Shapes Early Noun Comprehension from 8-18 Months: The Roles of Word Frequency and Referent Familiarity. \[[preprint](https://doi.org/10.31234/osf.io/zchbj_v1)\]
+**Zhu, L. Z.**, Amatuni, A., Egan-Dailey, S., Garrison, H., Kalenkovich, E., Koorathota, S., Righter, L., Tor, S., & Bergelson, E. (accepted). Experience Shapes Early Noun Comprehension from 8-18 Months: The Roles of Word Frequency and Referent Familiarity. *Journal of Memory and Language* \[[preprint](https://doi.org/10.31234/osf.io/zchbj_v1)\]
 
 Zhu, R., Kilonzo, T. N., **Zhu, L. Z.**, Fan, J., & Frank, M. C. (2026). Cross-contextual variability in children's early understanding of visual media. *Topics in Cognitive Science*, 18, e70034. \[[preprint](https://osf.io/preprints/psyarxiv/79xh5_v1)\] \[[publisher](https://doi.org/10.1111/tops.70034)\]
 
@@ -30,6 +30,8 @@ Zhu, R., Goddu, M. K., **Zhu, L. Z.**, & Gopnik, A. (2024). Preschoolers' compre
 **Zhu, Z.**, & Nguyen, A. (2022). The interaction between structure, discourse, and prosody in wh-questions in English. *Proceedings of the Fifty-eighth Annual Meeting of the Chicago Linguistic Society*, Chicago, IL, 501-517. \[[pdf](https://drive.google.com/file/d/17MWXLrz72w1COP-AIoTrAlYpLiVv9QAm/view)\]
 
 ## Conference Presentations
+
+**Zhu, L. Z.**, & Snedeker J. (2026). Relational meanings in the two-symbol utterances of children and language-trained apes. Oral presentation to appear at *the 51st Annual Boston University Conference on Language Development*, Boston, MA. 
 
 Dong R. Y., Moore C., **Zhu, L. Z.**, & Bergelson E. (2026). Parent-reported noun frequency predicts infants’ online noun comprehension in an eyetracking task. Poster presented at *the Cognitive Development Society Biennial Conference 2026*, Montréal, Canada.
 
