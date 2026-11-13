@@ -31,7 +31,7 @@ Zhu, R., Goddu, M. K., **Zhu, L. Z.**, & Gopnik, A. (2024). Preschoolers' compre
 
 ## Conference Presentations
 
-**Zhu, L. Z.**, & Snedeker J. (2026). Relational meanings in the two-symbol utterances of children and language-trained apes. Oral presentation to appear at *the 51st Annual Boston University Conference on Language Development*, Boston, MA. 
+**Zhu, L. Z.**, & Snedeker J. (2026). Relational meanings in the two-symbol utterances of children and language-trained apes. Oral presentation at *the 51st Annual Boston University Conference on Language Development*, Boston, MA. \[[slides](https://lilyzihuizhu.github.io/files/twosymbolutt_bucld2026_slides.pdf)\]
 
 Dong R. Y., Moore C., **Zhu, L. Z.**, & Bergelson E. (2026). Parent-reported noun frequency predicts infants’ online noun comprehension in an eyetracking task. Poster presented at *the Cognitive Development Society Biennial Conference 2026*, Montréal, Canada.
 
