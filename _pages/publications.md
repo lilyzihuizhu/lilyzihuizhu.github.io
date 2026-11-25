@@ -15,13 +15,13 @@ author_profile: true
 
 ## Articles
 
-Yuan, L., Singell, E., **Zhu, L. Z.**, Mix, K. S., & Smith, L. B. (under review). How are compositional systems learned? Four Hypotheses and Insights from Symbolic Numbers.
+Yuan, L., Singell, E., **Zhu, L. Z.**, Mix, K. S., & Smith, L. B. (revise & resubmit). How are compositional systems learned? Four Hypotheses and Insights from Symbolic Numbers.
 
 Hochmann, J.-R., **Zhu, L. Z.**, Kroupin, I., & Carey, S. (revise & resubmit). Hard Words Despite Early Concepts: The Acquisition of "Same" and "Different". \[[preprint](https://doi.org/10.31234/osf.io/m4z3x_v1)\]
 
 **Zhu, L. Z.** & Yuan, L., (revise & resubmit). From Components to Compositionality: A Case Study of Cross-Linguistic Differences in Number Learning Without Cross-Cultural Confounds.
 
-**Zhu, L. Z.**, Amatuni, A., Egan-Dailey, S., Garrison, H., Kalenkovich, E., Koorathota, S., Righter, L., Tor, S., & Bergelson, E. (accepted). Experience Shapes Early Noun Comprehension from 8-18 Months: The Roles of Word Frequency and Referent Familiarity. *Journal of Memory and Language* \[[preprint](https://doi.org/10.31234/osf.io/zchbj_v1)\]
+**Zhu, L. Z.**, Amatuni, A., Egan-Dailey, S., Garrison, H., Kalenkovich, E., Koorathota, S., Righter, L., Tor, S., & Bergelson, E. (2027). Experience shapes early noun comprehension from 8–18 months: The roles of word frequency and referent familiarity. *Journal of Memory and Language*, 152, 104813.  \[[preprint](https://doi.org/10.31234/osf.io/zchbj_v1)\] \[[publisher](https://doi.org/10.1016/j.jml.2026.104813)\]
 
 Zhu, R., Kilonzo, T. N., **Zhu, L. Z.**, Fan, J., & Frank, M. C. (2026). Cross-contextual variability in children's early understanding of visual media. *Topics in Cognitive Science*, 18, e70034. \[[preprint](https://osf.io/preprints/psyarxiv/79xh5_v1)\] \[[publisher](https://doi.org/10.1111/tops.70034)\]
 
